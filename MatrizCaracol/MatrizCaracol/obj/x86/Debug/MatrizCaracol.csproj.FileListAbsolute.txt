@@ -1,0 +1,4 @@
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.exe
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.pdb
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.exe
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.pdb
